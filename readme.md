@@ -12,4 +12,4 @@ In this project i built plant-selling-company-home-page using below `tech stack`
 
 ![project-06](./photos/project-06.png)
 
-live-link : [plant-page]()
+live-link : [plant-landing-page](https://plant-landing-page-project-06.netlify.app/)
